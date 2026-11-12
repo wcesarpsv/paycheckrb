@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{maxWidth:720,margin:'10vh auto',padding:24}}><h1>PaycheckRB</h1><p>Nova versão web em preparação.</p><p>O sistema de funcionários, ponto e pagamentos será conectado a um banco de dados seguro antes de liberar o acesso.</p><p>O aplicativo Streamlit original continua disponível durante a migração.</p></main>}
